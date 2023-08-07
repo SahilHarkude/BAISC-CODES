@@ -1,0 +1,2 @@
+In C,C++ we can use while(1) to make infinite loop to take input from user repeatedly.
+In Java,Python,Javascript,c#,PHp we can use while(True) to make infinite loop to take input from user repeatedly.
