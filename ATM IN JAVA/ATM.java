@@ -7,11 +7,11 @@ public class ATM
         int option,deposit,withdraw;
         Scanner sc=new Scanner(System.in);
         System.out.println("WELCOME TO ATM ");
-        System.out.print("SELECT AN OPTION 1 to 4 :");
         System.out.println("1.CHECK ACCOUNT BALANCE");
         System.out.println("2.WITHDRAW");
         System.out.println("3.DEPOSIT");
         System.out.println("4.EXIT");
+        System.out.print("SELECT AN OPTION 1 to 4 :");
         option=sc.nextInt();
         switch(option)
         {
