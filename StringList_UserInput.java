@@ -16,9 +16,6 @@ public class StringList_UserInput
         }
 
         System.out.println("The ArrayList is shown below");
-        for(int i=0;i<num;i++)
-        {
-            System.out.print(StudentName.get(i)+" ");
-        }
+        System.out.println(StudentName);
     }
 }
